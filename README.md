@@ -1,2 +1,2 @@
 # react_states_ColorBox
-Created with CodeSandbox
+Simple ColorBox using ReactJs 
